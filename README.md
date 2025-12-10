@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 🚀 Full-stack dev on a journey 
-- 💡 Clean code, useful tools, real solutions 
-- 🌱 Learning daily • Open-source lover
+🔭 🚀 Full-stack dev on a journey 
+💡 Clean code, useful tools, real solutions 
+🌱 Learning daily • Open-source lover
 -->

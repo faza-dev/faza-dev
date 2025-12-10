@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Zein, founder of faza-dev team. we are from malang east java Indonesia.
+I'm Zein, founder of faza-dev team. We are from malang east java Indonesia.
 
 a simple description about us
 🚀 Full-stack dev on a journey 
